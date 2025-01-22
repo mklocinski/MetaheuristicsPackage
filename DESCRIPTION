@@ -1,0 +1,14 @@
+Package: metaheuristics
+Type: Package
+Title: Helps Melissa avoid tedious metaheuristics work
+Version: 0.1.0
+Author: Melissa Klocinski
+Maintainer: Not relevant but me <mklocinski@gmail.com>
+Description: Package used to automate metaheuristic work. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Roxygen: list(markdown = TRUE)
+Imports: magrittr, mhHelper
+
